@@ -1,0 +1,6 @@
+C:\Users\Thong\Desktop\GPIO extender\extenderSoftConsole\extenderSoftConsole\bin\Debug\extenderSoftConsole.exe.config
+C:\Users\Thong\Desktop\GPIO extender\extenderSoftConsole\extenderSoftConsole\bin\Debug\extenderSoftConsole.exe
+C:\Users\Thong\Desktop\GPIO extender\extenderSoftConsole\extenderSoftConsole\bin\Debug\extenderSoftConsole.pdb
+C:\Users\Thong\Desktop\GPIO extender\extenderSoftConsole\extenderSoftConsole\obj\Debug\extenderSoftConsole.csprojResolveAssemblyReference.cache
+C:\Users\Thong\Desktop\GPIO extender\extenderSoftConsole\extenderSoftConsole\obj\Debug\extenderSoftConsole.exe
+C:\Users\Thong\Desktop\GPIO extender\extenderSoftConsole\extenderSoftConsole\obj\Debug\extenderSoftConsole.pdb
